@@ -1,0 +1,6 @@
+<!-- res/values/themes.xml -->
+<resources>
+    <style name="Theme.Stopwatch" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your theme here -->
+    </style>
+</resources>
